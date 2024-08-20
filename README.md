@@ -1,4 +1,4 @@
-# HR Analysis-Dashboard
+# HR Analysis - Dashboard
 
 ### Dashboard Link : https://github.com/Karishma-Varshney/HR-Analysis/blob/main/dashboard.pdf
 
