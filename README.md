@@ -7,7 +7,7 @@
 Help an organisation to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard. 
 
  
-## Report Snapshot (Power BI DESKTOP)
+## Report Snapshot(Power BI DESKTOP)
 
  
 ![Dashboard_upload](https://i.imgur.com/frHrvXk.png)
